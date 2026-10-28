@@ -18,7 +18,7 @@ A responsive and visually appealing website developed for **MoonstoneMine**, a S
 
 ## Contact  
 For inquiries or feedback, please contact:  
-- **Oshan Dissanayaka**  
+- **Oshan Disanayaka**  
 - 📧 Email: odisanayaka@gmail.com  
 - 📞 Phone: +371 22 451 720  
 
